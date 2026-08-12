@@ -57,7 +57,3 @@ The project was developed collaboratively by four team members across multiple b
 | MySQL | Database |
 | Postman | API testing |
 | Weather API | Weather data integration |
-
-## License
-
-This project was developed as part of a collaborative software engineering project.
