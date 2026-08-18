@@ -11,7 +11,7 @@ The backend is built using:
 - **MySQL**
 - **Postman** for API testing
 
-The backend follows the **MVC (Model-View-Controller) architecture**:
+The backend follows the **MVC ( Model-View-Controller ) architecture**:
 
 - **Models** — handle database interaction and data structure.
 - **Controllers** — handle application logic and business operations.
